@@ -1,6 +1,7 @@
 ---
 title: 常见Hexo命令
 date: 2020-03-27 17:28:24
+index_img: /images/order/11.jpg
 tags:
 ---
 
