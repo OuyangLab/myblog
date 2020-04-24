@@ -2,6 +2,7 @@
 title: Binder机制初探
 date: 2020-03-27 17:23:43
 index_img: /images/binder/12.jpg
+categories: Android
 tags:
 ---
 

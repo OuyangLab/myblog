@@ -2,6 +2,7 @@
 title: Android屏幕适配方案
 date: 2020-03-27 17:19:01
 index_img: /images/pingmu/pingmu.jpg
+categories: Android
 tags: Android
 ---
 ##### 布局适配
