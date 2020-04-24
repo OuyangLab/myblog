@@ -1,6 +1,7 @@
 ---
 title: Android智能盯盘绘制View
 date: 2020-04-16 18:27:39
+index_img: /images/pan/23.png
 categories: Android
 tags: Android绘制UI
 ---
