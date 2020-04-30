@@ -37,9 +37,8 @@ tags: Android绘制UI
 
 8. onDetachedFromWindow，退出当前Activity后会走到这个方法。
 
-
    我们通过Log打印也可以看到View的大概生命周期流程如下：
-   ![alt](/Ouyang/images/pan/5.png)
+   ![alt](/Ouyang/images/pan/24.png)
    一般我们自绘制view复写onMeasure, onSizeChanged, onDraw 这三个方法就可以了。
 
    
